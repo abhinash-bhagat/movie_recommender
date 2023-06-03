@@ -28,15 +28,15 @@ Select a movie from the dropdown menu to see recommendations based on that movie
 The recommendations include similar movies along with their posters.
 
 # Customization
-## Background Image
+### Background Image
 You can customize the background image of the app by replacing the net.jpg file in the root directory with your desired image. Make sure the file is named net.jpg and has the appropriate dimensions.
 
-# Styling
+### Styling
 You can modify the styling of the app by editing the HTML and CSS code within the app.py file. There are specific sections in the code where you can make changes to the app's title, button styles, and more.
 
-# Data Sources
+### Data Sources
 The movie data and similarity matrix used for the recommender system are stored in pickle files located in the Models/ directory. These files are loaded into the app during runtime.
 
-# Acknowledgements
+### Acknowledgements
 The movie data is obtained from TMDB API.
 The movie posters are fetched from the TMDB API based on the movie IDs.
