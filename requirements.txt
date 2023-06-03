@@ -77,7 +77,7 @@ six==1.16.0
 smmap==5.0.0
 soupsieve==2.4.1
 stack-data==0.6.2
-streamlit==1.23.1
+streamlit==1.23.0
 streamlit-option-menu==0.3.2
 tenacity==8.2.2
 termcolor==2.3.0
