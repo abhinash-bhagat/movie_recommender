@@ -27,6 +27,10 @@ To get started with the movie recommender system, follow these steps:
 Select a movie from the dropdown menu to see recommendations based on that movie.
 The recommendations include similar movies along with their posters.
 
+# Screenshot
+![ss](https://github.com/abhinash-bhagat/movie_recommender/assets/96810040/cd94efe8-2d9b-43ee-b3b9-2b61f5a97575)
+
+
 # Customization
 ### Background Image
 You can customize the background image of the app by replacing the net.jpg file in the root directory with your desired image. Make sure the file is named net.jpg and has the appropriate dimensions.
