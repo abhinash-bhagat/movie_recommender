@@ -3,7 +3,6 @@ import pandas as pd
 import requests
 import base64
 
-st.set_option('browser.gatherUsageStats', False)
 # Styling Start
 st.set_page_config(layout="wide")
 st.markdown("""
